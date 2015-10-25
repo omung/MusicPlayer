@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/android-myid3-0.82.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/customizer.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/filedrop.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jflac-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jid3lib-0.5.4.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jl1.0.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jlgui3.0.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jmactritonusspi1.74.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jmf.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/jspeex0.9.7.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/kj_dsp1.1.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/mp3agic-0.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/multiplayer.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/myid3.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/sound.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="F:/omung/jars (2)/jars/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
